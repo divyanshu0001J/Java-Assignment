@@ -21,7 +21,7 @@ public class Arithmetic_calculator {
             System.out.println("Quotient= " + (a/b));
         }
         else{
-            System.out.println("Enter a valid number");
+            System.out.println("Enter a valid number ");
         }
 
 }
