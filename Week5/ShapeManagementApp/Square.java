@@ -10,13 +10,13 @@
         }
 
         @Override
-        double area(){
-            return side*side;
+       void area(){
+            this.area= side*side;
         }
 
         @Override
-        double perimeter(){
-            return 4*side;
+       void perimeter(){
+           this.perimeter=4*side;
         }
     }
   
